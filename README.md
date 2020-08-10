@@ -1,4 +1,4 @@
-# Kandidatenlounge
+# MERN Full Stack Start Up
 
 ## Tech Stack MERN
 - MongoDB + ExpressJS + ReactJS + NodeJS
@@ -24,7 +24,7 @@ npm install
 ```$xslt
 npm install
 npm run dev
-http://localhost:0813
+http://localhost:60813
 ```
 
 ### Start Frontend
@@ -36,5 +36,11 @@ npm run start
 
 ## Access the kandidatenlounge
 ```$xslt
-http://localhost:0921
+http://localhost:60921
+```
+
+## Build frontend
+```$xslt
+// go to the folder: /frontend
+NODE_ENV=production npm run build   // the NODE_ENV=production will minimize size the tailwindcss
 ```
