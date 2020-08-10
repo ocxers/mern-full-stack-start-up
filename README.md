@@ -34,7 +34,7 @@ npm install
 npm run start
 ```
 
-## Access the kandidatenlounge
+## Access the MERN Full Stack Start Up
 ```$xslt
 http://localhost:60921
 ```
